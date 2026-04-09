@@ -1,4 +1,6 @@
 # 📊 Pesquisa de Satisfação em Python
+## 👩‍💻 Autora
+Desenvolvido por Laura Santos 💙
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
@@ -96,5 +98,4 @@ Ruim: 3 (30%)
 
 ---
 
-## 👩‍💻 Autora
-Desenvolvido por Laura Santos 💙
+
