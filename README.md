@@ -38,6 +38,35 @@ Ao final, exibe:
 - Boas práticas de entrada de dados
 
 ---
+## 🎥 Demonstração
+
+![Demonstração](assets/demo.gif)
+
+---
+
+## 📸 Exemplo de execução
+
+![Resultado](assets/1.png)
+![Resultado](assets/2.png)
+![Resultado](assets/3.png)
+![Resultado](assets/4.png)
+![Resultado](assets/5.png)
+
+---
+
+## 🛠️ Tecnologias utilizadas
+Python 3
+
+---
+
+## 📈 Possíveis melhorias futuras
+Interface gráfica (GUI)
+Exportação para arquivo (CSV/Excel)
+Dashboard com gráficos
+Armazenamento em banco de dados
+
+---
+
 
 ## 💻 Exemplo de execução
 
@@ -67,34 +96,5 @@ Ruim: 3 (30%)
 
 ---
 
-## 🎥 Demonstração
-
-![Demonstração](assets/demo.gif)
-
----
-
-## 📸 Exemplo de execução
-
-![Resultado](assets/1.png)
-![Resultado](assets/2.png)
-![Resultado](assets/3.png)
-![Resultado](assets/4.png)
-![Resultado](assets/5.png)
-
----
-
-🛠️ Tecnologias utilizadas
-Python 3
-
----
-
-📈 Possíveis melhorias futuras
-Interface gráfica (GUI)
-Exportação para arquivo (CSV/Excel)
-Dashboard com gráficos
-Armazenamento em banco de dados
-
----
-
-👩‍💻 Autora
+## 👩‍💻 Autora
 Desenvolvido por Laura Santos 💙
